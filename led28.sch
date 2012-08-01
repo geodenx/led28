@@ -5119,7 +5119,7 @@ DIN A4, landscape with location and doc. field</description>
 <wire x1="17.145" y1="1.27" x2="16.51" y2="0.635" width="0.2032" layer="21"/>
 <wire x1="16.51" y1="-0.635" x2="17.145" y2="-1.27" width="0.2032" layer="21"/>
 <wire x1="18.415" y1="-1.27" x2="17.145" y2="-1.27" width="0.2032" layer="21"/>
-<pad name="1" x="0" y="0" drill="0.8" diameter="1.016" shape="square" rot="R90"/>
+<pad name="1" x="0" y="0" drill="0.8" diameter="1.397" rot="R90"/>
 <pad name="2" x="2.54" y="0" drill="0.8" diameter="1.397" rot="R90"/>
 <pad name="3" x="5.08" y="0" drill="0.8" diameter="1.397" rot="R90"/>
 <pad name="4" x="7.62" y="0" drill="0.8" diameter="1.397" rot="R90"/>
@@ -5177,8 +5177,8 @@ DIN A4, landscape with location and doc. field</description>
 <wire x1="-1.27" y1="-0.635" x2="-0.635" y2="-1.27" width="0.2032" layer="21"/>
 <wire x1="0.635" y1="-1.27" x2="-0.635" y2="-1.27" width="0.2032" layer="21"/>
 <wire x1="13.97" y1="0.635" x2="13.97" y2="-0.635" width="0.2032" layer="21"/>
-<pad name="1" x="0" y="0" drill="0.8" diameter="1.1176" shape="octagon" rot="R90"/>
-<pad name="2" x="2.54" y="0" drill="0.8" diameter="1.1684" shape="octagon" rot="R90"/>
+<pad name="1" x="0" y="0" drill="0.8" diameter="1.397" rot="R90"/>
+<pad name="2" x="2.54" y="0" drill="0.8" diameter="1.397" rot="R90"/>
 <pad name="3" x="5.08" y="0" drill="0.8" diameter="1.397" rot="R90"/>
 <pad name="4" x="7.62" y="0" drill="0.8" diameter="1.397" rot="R90"/>
 <pad name="5" x="10.16" y="0" drill="0.8" diameter="1.397" rot="R90"/>
